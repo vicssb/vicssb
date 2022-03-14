@@ -4,23 +4,66 @@
 </p> 
 
 <p align="left">  
-  Tenho mais de <b>29 anos de experiência na área de Tecnologia da Informação </b>, sempre atuando com foco
-na excelência na execução das atividades.<br>
-Possuo ampla vivência como <b>analista programador e consultor de sistemas de informação</b>, atuando em
-desenvolvimento e treinamento.<br>
-Também tenho experiência como professor universitário e de curso técnico de linguagens de
-programação, engenharia e arquitetura de software.<br>
-Sou proativo, tenho facilidade de comunicação e bom relacionamento interpessoal, além de ótimo
-desempenho em equipes.<br>
+I have more than 29 years of experience in the Information Technology area, always working with a focus on excellence in the execution of activities.<br>
+I have extensive experience as a programmer analyst and information systems consultant, working in developments.<br>
+I also have experience as a university and technical course professor in programming languages, engineering and software architecture. Using simple language and making analogies ensuring the full assimilation of the content by the students.<br>
+I am proactive, I have good communication skills and good interpersonal skills, in addition to great team performance.<br>
+I'm looking for a new professional opportunity where I can apply my knowledge and bring me
+a chance for growth and consolidation in the company.
+<br>
 </p>
 
 <p align="left">
-  🦄 Programação Orientada a Objetos<br>
-  Linguagens: <strong>Java, C, C++, C#, Phython, Delphi</strong>
+  🦄 <b>Informatics</b><br>
+  <ul>
+<li>
+  Operating Systems:
+  Linux, Microsoft Windows 10, Microsoft Windows 7, Unix, Windows Server 2008 
+</li>
+<li>
+  Software:
+   Adobe Photoshop CorelDRAW Microsoft Access Microsoft Excel Microsoft Office Microsoft PowerPoint Microsoft Visio Microsoft Word 
+</li>
+<li>
+  Computer:
+    Network - Linux 
+ </li>
+<li>
+Database:
+ Database Microsoft SQL Server 2000 Database Microsoft SQL Server 2012 Database Microsoft SQL Server 2016 Database MySQL Database Oracle 9i - DBA Database PostgreSQL Data Mining - Data Mining Microsoft SQL Server 2005 Microsoft SQL Server 2008 Data Modeling Multidimensional Data Modeling Data Modeling Object Oriented Modeling Database Modeling and Administration 
+</li>
+<li>
+Internet:
+ Configuration and Use of E-mail Design for Internet Internet - Internet Access Configuration - Internet Systems Development - Internet Diagramming - Navigation and Search 
+</li>
+<li>
+Programming:
+ Eclipse Programming Logic Microsoft Visual Studio MVC - Model View Controller Back-end Programming ASP Active Server Pages Programming ASPX .NET Programming Assembly Programming C Programming C# Programming C++ Programming CSS Programming CSS3 Programming Delphi Programming Flash Programming HTML Programming HTML5 Programming in Java Programming in JavaScript Programming in JQuery Programming in Json Programming in MATLAB Programming in Microsoft SQL Programming in Microsoft .NET Platform Programming in VBScript Programming in Visual Basic Front-end Programming Object Oriented Programming 
+</li>
+</ul>
+💌 <b>Personal Characteristics Management</b>
+<ul>
+<li>
+Skills:
+ Results Tracking Ability to Motivate Teams Ability to Solve Problems Management Focused on Results Leadership Organizational Vision 
+</li>
+<li>
+Personal Skills:
+ Self-taught Ambition Ability to Integrate People Ability to Motivate Organization Ability Creativity Dynamism Efficiency Entrepreneurial Spirit Spontaneity Ease of Adaptation Ease of Learning Ease of Communication and Expression Ease Interpersonal Relationship Ease of Working in a Group Willpower Initiative Leadership Profile Extroverted Persistence Proactivity Sociability 
+</li>
+<li>
+Training: Training
+ Consultancy Training Instruction User Training 
+</li>
+<li>
+Projects: Project
+ Presentation Project Development Project Management Project Management Project Implementation Web Projects
+</li>
+</ul>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Eclipse, Visual Studio Code, JBoss, Rational Rose, Jude UML, ER-Win.</strong>
+  💼 Software: <strong>Eclipse, Visual Studio Code, Intellij, JBoss, Rational Rose, Jude UML.</strong>
 </p>
 
 <p align="left">
