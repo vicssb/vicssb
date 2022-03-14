@@ -30,26 +30,26 @@ a chance for growth and consolidation in the company.
  </li>
 <li>
 Database:
- Database Microsoft SQL Server 2000 Database Microsoft SQL Server 2012 Database Microsoft SQL Server 2016 Database MySQL Database Oracle 9i - DBA Database PostgreSQL Data Mining - Data Mining Microsoft SQL Server 2005 Microsoft SQL Server 2008 Data Modeling Multidimensional Data Modeling Data Modeling Object Oriented Modeling Database Modeling and Administration 
+ Microsoft SQL Server, MySQL, Oracle 9i - DBA, PostgreSQL, Data Mining, Data Modeling Multidimensional, Data Modeling Object Oriented, Database Modeling and Administration 
 </li>
 <li>
 Internet:
- Configuration and Use of E-mail Design for Internet Internet - Internet Access Configuration - Internet Systems Development - Internet Diagramming - Navigation and Search 
+ Configuration and Use of E-mail - Design for Internet - Internet Access Configuration - Internet Systems Development - Internet Diagramming - Navigation and Search 
 </li>
 <li>
 Programming:
- Eclipse Programming Logic Microsoft Visual Studio MVC - Model View Controller Back-end Programming ASP Active Server Pages Programming ASPX .NET Programming Assembly Programming C Programming C# Programming C++ Programming CSS Programming CSS3 Programming Delphi Programming Flash Programming HTML Programming HTML5 Programming in Java Programming in JavaScript Programming in JQuery Programming in Json Programming in MATLAB Programming in Microsoft SQL Programming in Microsoft .NET Platform Programming in VBScript Programming in Visual Basic Front-end Programming Object Oriented Programming 
+ Microsoft Visual Studio MVC - Model View Controller, Back-end Programming ASP Active Server Pages, Programming ASPX .NET, Programming Assembly, Programming C, Programming C#, Programming C++, Programming CSS3, Programming Delphi, Programming Flash, Programming HTML5, Programming in Java, Programming in JavaScript, Programming in JQuery, Programming in Json, Programming in MATLAB, Programming in Microsoft SQL, Programming in Microsoft .NET, Platform Programming in VBScript, Programming in Visual Basic Front-end and Programming Object Oriented Programming 
 </li>
 </ul>
 💌 <b>Personal Characteristics Management</b>
 <ul>
 <li>
 Skills:
- Results Tracking Ability to Motivate Teams Ability to Solve Problems Management Focused on Results Leadership Organizational Vision 
+ Results Tracking Ability to Motivate Teams, Ability to Solve Problems, Management Focused on Results and Leadership Organizational Vision 
 </li>
 <li>
 Personal Skills:
- Self-taught Ambition Ability to Integrate People Ability to Motivate Organization Ability Creativity Dynamism Efficiency Entrepreneurial Spirit Spontaneity Ease of Adaptation Ease of Learning Ease of Communication and Expression Ease Interpersonal Relationship Ease of Working in a Group Willpower Initiative Leadership Profile Extroverted Persistence Proactivity Sociability 
+ Self-taught, Ambition, Ability to Integrate People, Ability to Motivate Organization, Ability Creativity, Dynamism, Efficiency, Entrepreneurial, Spirit Spontaneity, Ease of Adaptation, Ease of Learning, Ease of Communication and Expression, Ease Interpersonal Relationship, Ease of Working in a Group, Willpower Initiative, Leadership Profile, Extroverted, Persistence, Proactivity and Sociability.
 </li>
 <li>
 Training: Training
@@ -57,7 +57,7 @@ Training: Training
 </li>
 <li>
 Projects: Project
- Presentation Project Development Project Management Project Management Project Implementation Web Projects
+ Presentation Project, Development, Project Management, Project Implementation and Web Projects
 </li>
 </ul>
 </p>
