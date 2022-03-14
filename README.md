@@ -67,7 +67,7 @@ Projects: Project
 </p>
 
 <p align="left">
-  💌 Para maiores informações entre em contato: ⤵️
+  💌 For more information contact us: ⤵️
 </p>
 
 <p align="left">
