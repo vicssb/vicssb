@@ -1,7 +1,7 @@
 <img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p>
   <div align="right"> 
-<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+<a href="./README.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
   
@@ -84,3 +84,5 @@ Projetos:
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
 
   </p>  
+<p>Por favor, siga o github e junte-se a nós!
+Obrigado por me visitar e boa codificação!</p>

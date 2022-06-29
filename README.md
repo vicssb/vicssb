@@ -85,3 +85,6 @@ Projects: Project
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
 
   </p>  
+
+<p>Please follow github and join us!
+Thanks for visiting and happy coding!</p>
