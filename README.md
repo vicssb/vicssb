@@ -1,6 +1,10 @@
-<img src="gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./img/gif v1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p>
+  <div align="right"> 
+<a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
+</div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
+  
 </p> 
 
 <p align="left">  
