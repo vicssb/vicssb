@@ -8,12 +8,7 @@
 </p> 
 
 <p align="left">  
-I have more than 29 years of experience in the Information Technology area, always working with a focus on excellence in the execution of activities.<br>
-I have extensive experience as a programmer analyst and information systems consultant, working in developments.<br>
-I also have experience as a university and technical course professor in programming languages, engineering and software architecture. Using simple language and making analogies ensuring the full assimilation of the content by the students.<br>
-I am proactive, I have good communication skills and good interpersonal skills, in addition to great team performance.<br>
-I'm looking for a new professional opportunity where I can apply my knowledge and bring me
-a chance for growth and consolidation in the company.
+I have over 30 years of experience in the Information Technology field.<br> I have extensive experience as a systems analyst, programmer, information systems consultant, Machine Learning engineer and data analyst, working in development. CID: M24-6; M21-5
 <br>
 </p>
 
@@ -82,7 +77,7 @@ Projects: Project
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
 
   <a href="https://wa.me/+5512987085327" alt="WhatsApp" target = "_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512981328278"/></a>
 
   </p>  
 

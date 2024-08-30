@@ -8,12 +8,8 @@
 </p> 
 
 <p align="left">  
-Tenho mais de 29 anos de experiência na área de Tecnologia da Informação, sempre trabalhando com foco na excelência na execução das atividades.<br>
-Tenho vasta experiência como analista programador e consultor de sistemas de informação, atuando em desenvolvimentos.<br>
-Também tenho experiência como professor universitário e de cursos técnicos em linguagens de programação, engenharia e arquitetura de software. Utilizando linguagem simples e fazendo analogias garantindo a total assimilação do conteúdo pelos alunos.<br>
-Sou proativo, possuo boa comunicação e bom relacionamento interpessoal, além de ótimo desempenho em equipe.<br>
-Procuro uma nova oportunidade profissional onde possa aplicar meus conhecimentos e me trazer
-oportunidade de crescimento e consolidação na empresa.
+Tenho mais de 30 anos de experiência na área de Tecnologia da Informação.<br>
+Possuo ampla experiência como analista de sistemas, programador, consultor de sistemas de informação, engenheiro de Machine Learning e analista de dados, atuando em desenvolvimento. CID: M24-6; M21-5
 <br>
 </p>
 
@@ -81,7 +77,7 @@ Projetos:
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sergio-silva-barros/" /></a>
 
   <a href="https://wa.me/+5512987085327" alt="WhatsApp" target = "_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512987085327"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5512981328278"/></a>
 
   </p>  
 <p>Por favor, siga o github e junte-se a nós!
