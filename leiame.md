@@ -14,6 +14,20 @@ Possuo ampla experiência como analista de sistemas, programador, consultor de s
 </p>
 
 <p align="left">
+  
+  🧠 <b>IA | Aprendizado de máquina</b><br>
+  <ul>
+      <li>
+        <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
+      </li>
+      <li>
+        <a href="https://github.com/vicssb/chatbot-gemini-api" alt="Chatbot-gemini-api" target = "_blank"> Chatbot-gemini-api
+      </li>
+      <li>
+        <a href="https://github.com/vicssb/sistema-eleicao-quarkus" alt="sistema-eleicao-quarkus" target = "_blank"> Sistema eleitoral Quarkus
+      </li>
+
+  </ul>
   🦄 <b>Informática</b><br>
   <ul>
 <li>

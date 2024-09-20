@@ -13,6 +13,19 @@ I have over 30 years of experience in the Information Technology field.<br> I ha
 </p>
 
 <p align="left">
+🧠 <b>AI | Machine Learning</b><br>
+<ul>
+      <li>
+        <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
+      </li>
+      <li>
+        <a href="https://github.com/vicssb/chatbot-gemini-api" alt="Chatbot-gemini-api" target = "_blank"> Chatbot-gemini-api
+      </li>
+      <li>
+        <a href="https://github.com/vicssb/sistema-eleicao-quarkus" alt="sistema-eleicao-quarkus" target = "_blank"> Sistema eleitoral Quarkus
+      </li>
+
+  </ul>
   🦄 <b>Informatics</b><br>
   <ul>
 <li>
