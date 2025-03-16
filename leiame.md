@@ -18,6 +18,9 @@ Possuo ampla experiência como analista de sistemas, programador, consultor de s
   🧠 <b>IA | Aprendizado de máquina</b><br>
   <ul>
       <li>
+        <a href="https://github.com/vicssb/machine-learning-specialist-training/blob/main/leiame.md"> Formação Machine Learning Specialist
+      </li>
+      <li>
         <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
       </li>
       <li>
@@ -26,7 +29,7 @@ Possuo ampla experiência como analista de sistemas, programador, consultor de s
       <li>
         <a href="https://github.com/vicssb/sistema-eleicao-quarkus" alt="sistema-eleicao-quarkus" target = "_blank"> Sistema eleitoral Quarkus
       </li>
-
+      
   </ul>
   🦄 <b>Informática</b><br>
   <ul>

@@ -16,6 +16,9 @@ I have over 30 years of experience in the Information Technology field.<br> I ha
 🧠 <b>AI | Machine Learning</b><br>
 <ul>
       <li>
+        <a href="https://github.com/vicssb/machine-learning-specialist-training"> Machine Learning Specialist Training
+      </li>
+      <li>
         <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
       </li>
       <li>
@@ -24,7 +27,7 @@ I have over 30 years of experience in the Information Technology field.<br> I ha
       <li>
         <a href="https://github.com/vicssb/sistema-eleicao-quarkus" alt="sistema-eleicao-quarkus" target = "_blank"> Sistema eleitoral Quarkus
       </li>
-
+      
   </ul>
   🦄 <b>Informatics</b><br>
   <ul>
