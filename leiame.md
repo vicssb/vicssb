@@ -21,6 +21,9 @@ Possuo ampla experiência como analista de sistemas, programador, consultor de s
         <a href="https://github.com/vicssb/machine-learning-specialist-training/blob/main/leiame.md"> Formação Machine Learning Specialist
       </li>
       <li>
+        <a href="https://github.com/vicssb/N8N---RAG-AI-Agent" alt="N8N RAG-AI-Agent" target = "_blank"> N8N RAG-AI-Agent 
+      </li>
+      <li>
         <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
       </li>
       <li>

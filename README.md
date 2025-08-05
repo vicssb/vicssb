@@ -19,6 +19,9 @@ I have over 30 years of experience in the Information Technology field.<br> I ha
         <a href="https://github.com/vicssb/machine-learning-specialist-training"> Machine Learning Specialist Training
       </li>
       <li>
+        <a href="https://github.com/vicssb/N8N---RAG-AI-Agent" alt="N8N RAG-AI-Agent" target = "_blank"> N8N RAG-AI-Agent 
+      </li>
+      <li>
         <a href="https://github.com/vicssb/lab_asset_forecast" alt="Lab_asset_forecast" target = "_blank"> Lab_asset_forecast 
       </li>
       <li>
